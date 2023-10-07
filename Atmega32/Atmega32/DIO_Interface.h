@@ -9,6 +9,7 @@
 #define DIO_INTERFACE_H_
 
 #include "STD_TYPES.h"
+
 /************* MACROS**************/
 #define DIO_GROUPA      0
 #define DIO_GROUPB      1
